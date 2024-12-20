@@ -1,4 +1,4 @@
-# Real-Time Text Detection and Text Extraction
+# Real-Time Text Detection and Text Extraction (OCR)
 
 ## Overview
 A sophisticated Optical Character Recognition (OCR) system that enables real-time text detection, extraction, and speech conversion from images and snapshots. This project leverages machine learning algorithms to achieve high-accuracy text recognition with optimized processing speeds.
